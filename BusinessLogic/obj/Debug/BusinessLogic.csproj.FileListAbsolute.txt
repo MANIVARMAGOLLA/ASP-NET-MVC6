@@ -1,0 +1,11 @@
+W:\LTTS\ASPNET_MVC_Module\Activity6\BusinessLogic\bin\Debug\BusinessLogic.dll
+W:\LTTS\ASPNET_MVC_Module\Activity6\BusinessLogic\bin\Debug\BusinessLogic.pdb
+W:\LTTS\ASPNET_MVC_Module\Activity6\BusinessLogic\bin\Debug\DataAccessLayer.dll
+W:\LTTS\ASPNET_MVC_Module\Activity6\BusinessLogic\bin\Debug\DataTransferObjects.dll
+W:\LTTS\ASPNET_MVC_Module\Activity6\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+W:\LTTS\ASPNET_MVC_Module\Activity6\BusinessLogic\bin\Debug\DataTransferObjects.pdb
+W:\LTTS\ASPNET_MVC_Module\Activity6\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+W:\LTTS\ASPNET_MVC_Module\Activity6\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+W:\LTTS\ASPNET_MVC_Module\Activity6\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+W:\LTTS\ASPNET_MVC_Module\Activity6\BusinessLogic\obj\Debug\BusinessLogic.dll
+W:\LTTS\ASPNET_MVC_Module\Activity6\BusinessLogic\obj\Debug\BusinessLogic.pdb
